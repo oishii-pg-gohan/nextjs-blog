@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Modified index title (and push to github).'
+const name = "dev1 branch's modify."
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
